@@ -1,0 +1,4 @@
+interface:
+  display_name: "黄白-libtv"
+  short_description: "编写黄白 LibTV 课程，按选定课节对齐定稿大纲、思维导图与音频"
+  default_prompt: "请使用 $huangbai-libtv 处理我指定的课节：编写时先大纲后脚本；调用“对齐”时保护已确定口播，核对脚本文档内大纲、思维导图和音频，按本次授权同步有差异的部分。"
